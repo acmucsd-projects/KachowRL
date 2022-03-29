@@ -29,8 +29,9 @@ SAC Gif
 TD3 Gif
 
 A2C Gif
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/65028732/160671355-3b85a61a-1bfb-4230-8e4f-21d002d7bc06.gif)
-)
+
 
 ## Acknowledgements
 
