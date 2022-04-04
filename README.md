@@ -28,6 +28,8 @@ PPO Gif
 
 SAC Gif
 
+![SAC Gif](/gifs/sac_results.gif)
+
 TD3 Gif
 
 A2C Gif
@@ -44,6 +46,6 @@ Our team of 4 members built this repo:
 
 - [@CatFish47](https://github.com/CatFish47)
 - [@adigudi](https://github.com/adigudi)
-- Name 4
+- [@ernestl123](https://github.com/ernestl123)
 
 We thank [@jonzamora](https://github.com/jonzamora) and [@edwardyang](https://github.com/edwardyang12) for their mentorship and we hope you find this repository useful for your own Reinforcement Learning Experiments.
