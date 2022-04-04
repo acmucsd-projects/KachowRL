@@ -28,7 +28,7 @@ PPO Gif
 
 SAC Gif
 
-![SAC Gif](/gifs/sac_results.gif)
+![SAC Gif](/gifs/sac_result.gif)
 
 TD3 Gif
 
