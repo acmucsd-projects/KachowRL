@@ -23,7 +23,7 @@ A2C - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg
 ## Results
 
 PPO Gif
-![PPO Gif]()
+![PPO Gif](/gifs/ppo_results.gif)
 
 SAC Gif
 
@@ -32,7 +32,6 @@ TD3 Gif
 A2C Gif
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/65028732/160671355-3b85a61a-1bfb-4230-8e4f-21d002d7bc06.gif)
-
 
 ## Acknowledgements
 
@@ -45,6 +44,5 @@ Our team of 4 members built this repo:
 - [@CatFish47](https://github.com/CatFish47)
 - Name 3
 - Name 4
-
 
 We thank [@jonzamora](https://github.com/jonzamora) and [@edwardyang](https://github.com/edwardyang12) for their mentorship and we hope you find this repository useful for your own Reinforcement Learning Experiments.
