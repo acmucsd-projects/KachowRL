@@ -12,7 +12,7 @@ This is no ordinary car, in fact, it is Lightning McQueen!
 
 To run our various algorithms for yourself, click on these Google Colab Links:
 
-PPO - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprofessor/beta-lactamase/blob/main/beta_lactamase_data.ipynb)
+PPO - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/107R7FSObAqTtgIz9CQaxJnMayKybAu7U?usp=sharing)
 
 SAC - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprofessor/beta-lactamase/blob/main/beta_lactamase_data.ipynb)
 
@@ -23,6 +23,7 @@ A2C - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg
 ## Results
 
 PPO Gif
+![PPO Gif]()
 
 SAC Gif
 
@@ -41,7 +42,7 @@ Our team of 4 members built this repo:
 
 - [@dannyzzp](https://github.com/dannyzzp)
 
-- Name 2
+- [@CatFish47](https://github.com/CatFish47)
 - Name 3
 - Name 4
 
